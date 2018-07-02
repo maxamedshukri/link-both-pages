@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>page1</title>
+</head>
+<body>
+<p>this is index page.</p>
+Here is a link to 
+<a href="page1.html">page 1</a>
+</body>
+</html>
